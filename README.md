@@ -1,5 +1,3 @@
-<img src="https://github.com/fahad9993/fahad9993/blob/main/cover.png" alt="Cover photo" width="1280" height="640">
-
 # 💫 About Me:
 I am currently working on a Next.js project.<br>I am preparing for the GRE.
 
