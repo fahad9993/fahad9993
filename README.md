@@ -1,3 +1,4 @@
+<img src="https://github.com/fahad9993/fahad9993/blob/main/Banner.png" alt="Cover"/>
 # :dizzy: About Me:
 I am currently working on a Next.js project.<br>I am preparing for the GRE.
 
