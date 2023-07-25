@@ -1,13 +1,14 @@
 <img src="https://github.com/fahad9993/fahad9993/blob/main/Banner.png" alt="Cover"/>
+
 # :dizzy: About Me:
 I am currently working on a Next.js project.<br>I am preparing for the GRE.
 
 
-## :globe_with_meridians: Socials:
+# :globe_with_meridians: Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fahad9993) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahad_rahm4n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad9993) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fahad_9993) 
 [![Github](https://img.shields.io/badge/Github-000000?logo=github)](https://github.com/fahad9993)
 
-## :briefcase: Portfolio
+# :briefcase: Portfolio
 [![Portfolio](https://img.shields.io/badge/➡️%20Show%20More-FFD700)](https://fahad9993.github.io/cv-new/)
 
 # 💻 Tech Stack:
